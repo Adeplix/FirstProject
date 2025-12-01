@@ -4,14 +4,14 @@
 
 ![img1](https://github.com/Adeplix/FirstProject/blob/main/pictures/Screen1.PNG).
 
-### Как запустить?
+## Как запустить?
 
-# Для Linux
+### Для Linux
 ```bash
 python3 main.py
 ```
 
-# Для Windows
+### Для Windows
 ```bash
 python main.py
 ```
